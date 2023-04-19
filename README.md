@@ -22,6 +22,6 @@ run get_corner.py to check
 ![Snipaste_2023-04-18_22-06-07](https://user-images.githubusercontent.com/73814732/232944882-9a0cdaec-66f9-4753-9739-9aa120068b4a.png)
 ## Intrinsics & Extrinsics
 run gpt_get_mywrite.py to get  
-![Snipaste_2023-04-18_22-10-32](https://user-images.githubusercontent.com/73814732/232945120-80a1d757-27e6-49ea-98e6-f8f85615936a.png)
+![Snipaste_2023-04-18_22-10-32](https://user-images.githubusercontent.com/73814732/232945120-80a1d757-27e6-49ea-98e6-f8f85615936a.png)  
 copy and replace in calibration_final.py run to get result  
 ![Snipaste_2023-04-19_09-48-48](https://user-images.githubusercontent.com/73814732/232945603-3b5086b9-75ed-4fbc-a46d-1e09d5c48b69.png)
